@@ -1,27 +1,38 @@
-# ShoppingRecipeApp
+# Shopping - Recipe App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.15.
+A **custom recipe app** allowing users to create, edit, delete, and save recipes. Then forward recipes' ingredients to an ingredients list for further shopping. It is an angular 18 modules-based application with NgRx for statement management and Firebase's realtime database. 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+##  🚀 Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-   🛡️ **User Authentication**: User sign up and sign-in authentication.
+-   📋 **View recipes**: View all currently saved recipes.
+-   ➕ **Add recipes**: Add recipes and its ingredients with input validation.
+-   ✏️ **Edit recipe**: Edit an existing recipe with input validation.
+-   🔃 **Retrieve recipe**: Retrieve stored recipes from database after authentification. 
+-   💾 **Save recipes**: Save recipes' list for further usage.
+-   🚀 **Send ingredient to Shop**: Forward a recipe's ingredients to a shopping list.
+-   🛠️ **Edit shopping list**: Update and delete any shopping list ingredient.
+-   **Clean & commented code**: The code is commented follows a clean project structure.
+-   🌐 **Deployment**: Deployed website on firebase.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🛠️ Tech Stack
 
-## Running end-to-end tests
+### Frontend
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-   **Angular 18** modules-based application
+-   **NgRx** for state management
+-   **Bootstrap** for styling
 
-## Further help
+### Database
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+-   **Firebase Realtime database**
+-   **REST API**
+-   **Firebase deployment**
+
