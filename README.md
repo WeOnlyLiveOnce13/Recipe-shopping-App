@@ -4,7 +4,6 @@ A **custom recipe app** allowing users to create, edit, delete, and save recipes
 
 ## Demo
 
-![Sample demo](./public/demo.webm)
 ![Demo gif](./public/demo.gif)
 
 ---
