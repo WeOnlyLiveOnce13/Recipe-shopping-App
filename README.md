@@ -2,6 +2,9 @@
 
 A **custom recipe app** allowing users to create, edit, delete, and save recipes. Then forward recipes' ingredients to an ingredients list for further shopping. It is an angular 18 modules-based application with NgRx for statement management and Firebase's realtime database. 
 
+## Demo
+
+Coming up
 
 ---
 
